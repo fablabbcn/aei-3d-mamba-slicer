@@ -63,13 +63,13 @@ Partners del proyecto:
 
 Este plugin fue creado por Eduardo Chamorro en FabLab Barcelona e IAAC (Instituto de Arquitectura Avanzada de Cataluña) después de 3 años de desarrollo interno y hecho público gracias al soporte y fondos del proyecto AEI-CLAB.
 Agradecimientos a:
-     -Ashkan Foroughi Dehnavi por su arduo trabajo en el generador de código g de la ruta de impresión, creando muchas utilidades y mejorando profundamente el núcleo interno de esta herramienta.
-     -Josep Marti por ayudar a probar aproximadamente todas las versiones del mismo.
-     -Alex Dubor por su referencia de guión inicial sobre análisis y análisis de código G.
-     -Kunaljit Chadha por sus scripts de maquetas para análisis de impresión 3D.
-     -Daphne Gerodimou por todo el gran trabajo en la documentación de este complemento y las imágenes.
-     -Santi Fuentemilla & Guillem Camprodon por apoyar este desarrollo.
-     -Park Hyun por optimizar los scripts de análisis de código G.
+- Ashkan Foroughi Dehnavi por su arduo trabajo en el generador de código g de la ruta de impresión, creando muchas utilidades y mejorando profundamente el núcleo interno de esta herramienta.
+- Josep Marti por ayudar a probar aproximadamente todas las versiones del mismo.
+- Alex Dubor por su referencia de guión inicial sobre análisis y análisis de código G.
+- Kunaljit Chadha por sus scripts de maquetas para análisis de impresión 3D.
+- Daphne Gerodimou por todo el gran trabajo en la documentación de este complemento y las imágenes.
+- Santi Fuentemilla & Guillem Camprodon por apoyar este desarrollo.
+- Park Hyun por optimizar los scripts de análisis de código G.
 
 
 ## Contribuciones
