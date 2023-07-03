@@ -33,8 +33,8 @@ Este complemento ha sido probado durante más de 3 años en IAAC-FabLab Barcelon
 Este repositorio contiene:
 
 - Plugin de instalación/archivos instalables .ghuser objects [link](MambaV7.9.zip)
-- Manual de uso de MAMBA en inglés [link](MambaManual-english.pdf)
-- Manual de uso de MAMBA en castellano  [link](MambaManual-spanish.pdf)
+- Manual de uso de MAMBA en inglés [link](MambaManual_eng.pdf)
+- Manual de uso de MAMBA en castellano  [link](MambaManual_esp.pdf)
 - Archivo de grasshopper de ejemplo [file template comentado](ExampleFile7.9.zip)
 
 ## Instalación
